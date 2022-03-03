@@ -16,8 +16,7 @@ public class HW2 {
 		
 		HW2 obj = new HW2();
 		obj.checkEvenOdd(55);
-	
-	
-	
+		obj.checkEvenOdd(12);
+			
 	}
 	}

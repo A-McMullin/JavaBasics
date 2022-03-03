@@ -13,7 +13,7 @@ public class MethodDemo {
 	public static void main(String[] args) {
 		MethodDemo obj=new MethodDemo();
 		obj.TeyfurAndHorse("Teyfur", "Horse");
-		obj.TeyfurAndHorse("Tarik", "Horse");
+		obj.TeyfurAndHorse("Tarik", "Horse");	
 		
 	}
 }

@@ -18,9 +18,8 @@ public class HW3 {
 	}
 public static void main(String[] args) {
 	HW3 obj = new HW3();
-	System.out.println(obj.words("USA"));
-	System.out.println(obj.words("France"));
-	System.out.println(obj.words("Mexico"));
-	System.out.println(obj.words("Japan"));
+	String country = obj.words("France");
+	
+	System.out.println(country);
 	}
 }
